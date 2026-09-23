@@ -24,6 +24,3 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
 ## Plugins instalados
 |Plugin|Imagen|uso|
 |------|------|---|
-
-
-# ANDRE
