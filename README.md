@@ -37,7 +37,7 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
 
 |Plugin|Imagen|uso|
 |------|------|---|
-|HTML CSS Support|![HTML CSS Support](image/htmlc.png)|
-|Live preview| ![Live preview](image/livepreview.png)|
-|Markdown|![Markdown](image/markdown.png)|
-|XML|![XML](image/xml.png)|
+|HTML CSS Support|![HTML CSS Support](htmlc.png)|
+|Live preview| ![Live preview](livepreview.png)|
+|Markdown|![Markdown](markdown.png)|
+|XML|![XML](xml.png)|
