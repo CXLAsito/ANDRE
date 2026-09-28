@@ -20,7 +20,7 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
    - HTML CSS Support
      - (https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
    - Life Preview
-     - (https://marketplace.visualstudio.com/items?itemName=ms.vscode.live-server)
+     - (https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
    - MarkDown All in one
      - (https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  
    - XML - Red HAT
